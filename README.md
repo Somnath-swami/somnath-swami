@@ -21,7 +21,7 @@
 
 - ⭐ Fun fact **I'm smart enough to know that I'm dumb!**
 
-<p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/Untitled%20Diagram-Page-2.jpg/?user=somnath-swami&theme=tokyonight" alt="somnath-swami" /></p>
+<p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/Untitled%20Diagram-Page-2.png" alt="somnath-swami" /></p>
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=somnath-swami&show_icons=true&theme=tokyonight&line_height=27">
