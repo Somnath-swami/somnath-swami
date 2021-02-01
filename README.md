@@ -5,7 +5,7 @@
  <p align="left">
  
  
- <img src="https://badges.pufler.dev/visits/somnath-swami/somnath-swami"/>
+ <img src="https://badges.pufler.dev/visits/somnath-swami"/>
  <img src="https://badges.pufler.dev/years/somnath-swami"/>
  <img src="https://badges.pufler.dev/repos/somnath-swami"/>
  <img src="https://badges.pufler.dev/commits/monthly/somnath-swami"/>
