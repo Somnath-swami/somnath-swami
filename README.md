@@ -3,12 +3,11 @@
 <h3 align="center">I learned very early the difference between knowing the name of something and knowing something</h3>
 
  <p align="left">
+       
+   
+ <img src="https://badges.pufler.dev/commits/monthly/somnath-swami"/>  
+
  
- 
- <img src="https://badges.pufler.dev/visits/somnath-swami"/>
- <img src="https://badges.pufler.dev/years/somnath-swami"/>
- <img src="https://badges.pufler.dev/repos/somnath-swami"/>
- <img src="https://badges.pufler.dev/commits/monthly/somnath-swami"/>
 
 </p> 
  
