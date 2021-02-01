@@ -21,6 +21,9 @@
 
 - ⭐ Fun fact **I'm smart enough to know that I'm dumb!**
 
+<h1 align="center">MY Skill Stars⭐</h1>
+
+
 <p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/Untitled%20Diagram-Page-2.png" alt="somnath-swami" /></p>
 
 <p>
