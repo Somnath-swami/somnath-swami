@@ -5,7 +5,6 @@
  <p align="left">
        
    
- <img src="https://badges.pufler.dev/commits/monthly/somnath-swami"/>  
 
  
 
