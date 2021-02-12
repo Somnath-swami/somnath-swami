@@ -30,7 +30,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath-swami&theme=tokyonight" alt="somnath-swami" /></p>
-<p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/view.png/?user=somnath-swami&theme=tokyonight" alt="somnath-swami" /></p>
+<p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/source/view.png" /></p>
  
 
 
