@@ -19,7 +19,6 @@
 
 - ⭐ Fun fact **I'm smart enough to know that I'm dumb!**
 
-<h1 align="center">MY Skill Stars⭐</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +30,7 @@
 </p>
 
 
-
+<h1 align="center">MY Skill Stars⭐</h1>
 
 
 <p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/source/star.png" alt="somnath-swami" /></p>
